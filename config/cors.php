@@ -33,7 +33,7 @@ return [
 
     'paths' => ['api/*'],
     'allowed_methods' => ['*'],
-    'allowed_origins' => ['http://localhost:5173', 'http://localhost:5174'], // ton port Vite
+    'allowed_origins' => ['https://formulaire-d-inscription-ygaz.vercel.app/'], // ton port Vite
     'allowed_headers' => ['*'],
 
 ];
